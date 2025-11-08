@@ -8,8 +8,8 @@ import User from './Components/User'
 const App = () => {
   return (
     <div>
-      {/* <Cake /> */}
-      <CakeWithHooks />
+      <Cake />
+      {/* <CakeWithHooks /> */}
       {/* <IceCream /> */}
       <IceCreamWithHooks />
       {/* <User /> */}
